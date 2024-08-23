@@ -1,0 +1,415 @@
+/* .containerr{
+    padding: 20px;
+  background-size: cover;
+  height: 100vh;
+    background-image: url("images/img11.jpg");
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+h4{
+    margin-left: 35px;
+}
+.div11{
+padding-top: 20px;
+}
+.four{
+    color: white;
+    background-color: deeppink;
+ border-radius: 30px;
+    padding: 10px;
+}
+
+.buton{
+    width: 270px;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: white;
+    border-color: deeppink;
+    
+}
+.label2{
+    color: white;
+    background-color: deeppink;
+    width: 60px;
+    padding: 5px;
+    margin-top: 6px;
+    border-radius: 20px;
+    margin-left: 50px;
+    font-size: 10px;
+}
+.clr{
+    color: white;
+}
+span{
+    color: deeppink;
+}
+.container2{
+    background-color: grey;
+   
+    background-size: cover;
+    color: white;
+    padding: auto;
+    padding-bottom: 50px;
+    height: 120vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 25px;
+    
+}
+.contact{
+    padding: 20px;
+    
+}
+.img1{
+width: 100%;
+height: 100%;
+border-radius: 25px;
+}
+.contain{
+    color: white;
+    padding: 50px;
+}
+.p1{
+    color: lightpink;
+    font-style: italic;
+}
+.bton{
+    background-color: deeppink;
+    color: white;
+    width: 120px;
+    padding: 5px;
+    border-radius: 20px;
+}
+h1{
+    color: white;
+}
+.container3{
+    background-color: black;
+    padding: 30px;
+    background-size: cover;
+    
+    text-align: center;
+color: white;
+}
+.images{
+    width: 120px;
+    
+padding: 10px;
+border-radius: 25px;
+}
+.ntg{
+    font-size: 30px;
+ text-decoration: underline;
+    
+}
+.ntg1{
+       font-style: italic;
+    color: lightpink;
+    padding: 10px;
+}
+.container4{
+    background-color: rgb(243, 188, 188);
+    padding: 30px;
+    background-size: cover;
+    
+    text-align: center;
+    color: white;
+
+}
+
+#once{
+    width: 400px;
+    height: 360px;
+}
+.p3{
+    font-size: 20px;
+}
+.p4{
+    color: lightpink;
+    font-style: italic;
+}
+.cardd{
+    width: 400px;
+    background-color: rgb(198, 145, 145);
+    text-align: center;
+    padding: 10px;
+}
+.cardy{
+    background-color: white;
+    color: black;
+}
+.label1{
+ background-color: deeppink;
+    
+    font-size: 12px;
+    padding: 10px;
+}
+.pp{
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+
+.pp1{
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+}
+.container5{
+    background-color: rgb(249, 199, 199);
+    padding: 20px;
+    background-size: cover;
+
+    text-align: center;
+   
+    
+}
+.row111{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.l1{
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 350px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: gold;
+    padding-top: 50px;
+}
+.down{
+    width: 200px;
+}
+.newton{
+    color: deeppink;
+}
+.container6{
+    background-color: rgb(244, 185, 185);
+    text-align: center;
+    color: deeppink;
+    padding: 10px;
+   
+}
+.pppl{
+    color: ghostwhite;
+    font-size: 25px;
+}
+      
+ 
+     */
+
+
+
+
+
+
+     .containerr {
+        padding: 20px;
+        background-size: cover;
+        height: 70vh;
+        background-image: url("images/img11.jpg");
+        color: white;
+        display: flex;
+        margin-bottom: 20px;
+        flex-direction: column;
+        justify-content: center;
+      }
+      h4 {
+        margin-left: 35px;
+      }
+      .div11 {
+        padding-top: 20px;
+      }
+      .four {
+        color: white;
+        background-color: deeppink;
+        border-radius: 30px;
+        padding: 10px;
+      }
+      
+      .buton {
+        width: 270px;
+        font-size: 15px;
+        border-radius: 20px;
+        background-color: white;
+        border-color: deeppink;
+      }
+      .label2 {
+        color: white;
+        background-color: deeppink;
+        width: 60px;
+        padding: 5px;
+        margin-top: 6px;
+        border-radius: 20px;
+        margin-left: 50px;
+        font-size: 10px;
+      }
+      .clr {
+        color: white;
+      }
+      span {
+        color: deeppink;
+      }
+      .container2 {
+        background-color: grey;
+      
+        background-size: cover;
+        color: white;
+      
+        padding: 50px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-radius: 25px;
+      }
+      .contact {
+        padding: 20px;
+      }
+      .img1 {
+        width: 100%;
+        height: 100%;
+        border-radius: 25px;
+      }
+      .contain {
+        color: white;
+        padding: 50px;
+      }
+      .p1 {
+        color: lightpink;
+        font-style: italic;
+      }
+      .bton {
+        background-color: deeppink;
+        color: white;
+        width: 120px;
+        padding: 5px;
+        border-radius: 20px;
+      }
+      h1 {
+        color: white;
+      }
+      .container3 {
+        background-color: black;
+        padding: 30px;
+        background-size: cover;
+      
+        text-align: center;
+        color: white;
+      }
+      .images {
+        width: 120px;
+      
+        padding: 10px;
+        border-radius: 25px;
+      }
+      .ntg {
+        font-size: 30px;
+        text-decoration: underline;
+      }
+      .ntg1 {
+        font-style: italic;
+        color: lightpink;
+        padding: 10px;
+      }
+      .container4 {
+        background-color: rgb(243, 188, 188);
+        padding: 30px;
+        background-size: cover;
+      
+        text-align: center;
+        color: white;
+      }
+      
+      #once {
+        width: 400px;
+        height: 360px;
+      }
+      .p3 {
+        font-size: 20px;
+      }
+      .p4 {
+        color: rgb(69, 66, 66);
+        font-style: italic;
+      }
+      .cardd {
+        width: 400px;
+        background-color: rgb(198, 145, 145);
+        text-align: center;
+        padding: 10px;
+      }
+      .cardy {
+        background-color: white;
+        color: black;
+      }
+      .label1 {
+        background-color: deeppink;
+      
+        font-size: 12px;
+        padding: 10px;
+      }
+      .pp {
+        color: black;
+        font-size: 10px;
+        font-weight: bold;
+      }
+      
+      .pp1 {
+        color: white;
+        font-size: 10px;
+        font-weight: bold;
+      }
+      .container5 {
+        background-color: rgb(249, 199, 199);
+        padding: 20px;
+        background-size: cover;
+      
+        text-align: center;
+      }
+      .row111 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
+      .l1 {
+        border-style: solid;
+        text-align: center;
+        width: 200px;
+        height: 350px;
+        background-color: white;
+        padding: 10px;
+        border-radius: 20px;
+        border-width: 10px;
+        border-color: gold;
+        padding-top: 50px;
+      }
+      .down {
+        width: 200px;
+      }
+      .newton {
+        color: deeppink;
+      }
+      .container6 {
+        background-color: rgb(244, 185, 185);
+        text-align: center;
+        color: deeppink;
+        padding: 10px;
+      }
+      .pppl {
+        color: ghostwhite;
+        font-size: 25px;
+      }
+      
+
+
+
+
+
